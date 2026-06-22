@@ -1,5 +1,5 @@
 ## **Phoebe** 
-
+[中文说明](README.zh.md) | English
 Phoebe is a free, local-first football/soccer betting research agent. 
 
 It borrows the workflow logic of an investment research system: route the task first, collect multi-source evidence, preserve an evidence log, separate facts from inference and judgment, calculate implied probability, model probability, expected value, and bankroll-aware position sizing, then generate a structured betting memo. 
