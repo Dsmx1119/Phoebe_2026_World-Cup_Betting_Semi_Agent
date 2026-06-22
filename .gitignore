@@ -1,0 +1,25 @@
+# Mac 系统文件
+.DS_Store
+
+# API keys / secrets
+.env
+.env.*
+*.key
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Node.js
+node_modules/
+dist/
+build/
+
+# VS Code 设置
+.vscode/
+
+# 不建议上传的原始数据
+screenshots/
+raw_data/

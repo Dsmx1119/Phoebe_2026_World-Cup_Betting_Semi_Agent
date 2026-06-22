@@ -1,0 +1,12 @@
+{
+  "match": null,
+  "captured_at": "2026-06-12T08:03:20+00:00",
+  "source_name": "screenshot_ocr",
+  "source_url": "examples/screenshots/sample.png",
+  "selections": [],
+  "ocr_confidence": null,
+  "raw_text": "",
+  "warnings": [
+    "OCR 不可用：请安装可选依赖 `pip install -e .[ocr]`，并安装系统 Tesseract。"
+  ]
+}
